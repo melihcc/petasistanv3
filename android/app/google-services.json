@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566811763936",
+    "project_id": "petasistanv3",
+    "storage_bucket": "petasistanv3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566811763936:android:8bd81d9f468ce7bc445c85",
+        "android_client_info": {
+          "package_name": "com.example.petasistanv3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAALLMKTFqdtFY6oZc--3LBMmD8qDgOcHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
