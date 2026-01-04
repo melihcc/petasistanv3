@@ -83,6 +83,11 @@ class HomeScreen extends ConsumerWidget {
                   icon: const Icon(Icons.bluetooth_searching),
                   label: const Text('BLE Scanner'),
                 ),
+                ElevatedButton.icon(
+                  onPressed: () => context.push('/map'),
+                  icon: const Icon(Icons.map),
+                  label: const Text('Maps'),
+                )
               ],
             ),
           );
